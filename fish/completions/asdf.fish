@@ -1,0 +1,1 @@
+/home/avernotte/.asdf/completions/asdf.fish
